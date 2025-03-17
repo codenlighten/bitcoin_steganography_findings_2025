@@ -1,7 +1,7 @@
 # PDF Font Stream Steganography: Technical Reproduction Study
 
 By Gregory J. Ward  
-Stegalyze Research  
+SmartLedger Research (smartledger.solutions)  
 March 17, 2025
 
 ## Overview
@@ -112,7 +112,7 @@ This research demonstrates:
 When referencing this work, please cite:
 ```
 Ward, G.J. (2025). "PDF Font Stream Steganography: Technical Reproduction Study"
-Stegalyze Research, March 2025.
+SmartLedger Research, March 2025.
 ```
 
 ## License
@@ -122,5 +122,6 @@ This research is provided for academic and verification purposes only. All right
 ---
 Gregory J. Ward  
 Principal Researcher  
-Stegalyze Research
+SmartLedger Research  
+https://smartledger.solutions
 # bitcoin_steganography_findings_2025

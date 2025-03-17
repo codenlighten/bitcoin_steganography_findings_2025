@@ -1,8 +1,10 @@
 # Font Stream Steganography in the Bitcoin Whitepaper: A Technical Analysis
 
-## Stegalyze Research Team
+## Bitcoin Whitepaper Steganographic Analysis
 
-**March 17, 2025**
+By Gregory J. Ward  
+SmartLedger Research (smartledger.solutions)  
+March 17, 2025
 
 ## Abstract
 
