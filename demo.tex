@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{fontspec}  % For TrueType font support
+\usepackage{geometry}
+\usepackage{lipsum}
+
+% Set document font to Liberation Serif (TrueType font similar to Times New Roman)
+\setmainfont{Liberation Serif}[
+    Path = /usr/share/fonts/truetype/liberation/,
+    Extension = .ttf,
+    UprightFont = LiberationSerif-Regular,
+    BoldFont = LiberationSerif-Bold,
+    ItalicFont = LiberationSerif-Italic,
+    BoldItalicFont = LiberationSerif-BoldItalic
+]
+
+\title{Technical Demonstration Document}
+\author{Research Team}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+This document demonstrates the technical feasibility of font stream steganography in PDF documents. The techniques described herein are purely for academic research and verification purposes.
+
+\section{Technical Details}
+The document utilizes standard PDF font embedding techniques with TrueType font streams. The embedding process preserves all document functionality while maintaining the integrity of the font metrics.
+
+\section{Sample Content}
+\lipsum[1-3]
+
+\section{Verification}
+The presence of the embedded pattern can be verified through binary analysis of the PDF's font streams at offset 0x184B0.
+
+\end{document}
