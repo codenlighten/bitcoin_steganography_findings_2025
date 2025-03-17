@@ -4,6 +4,23 @@ By Gregory J. Ward
 SmartLedger Research (smartledger.solutions)  
 March 17, 2025
 
+## Disclaimers and Legal Notices
+
+### Research Purpose
+This research is conducted for academic and educational purposes only. The techniques described herein are intended to demonstrate technical feasibility and advance the understanding of PDF document analysis. This research does not encourage or endorse any unauthorized modification of existing documents.
+
+### No Investment Advice
+Nothing in this repository constitutes investment, legal, or tax advice. The information provided is purely technical in nature and should not be interpreted as commentary on any digital asset's value or potential future performance.
+
+### Bitcoin Whitepaper Analysis
+This research analyzes technical aspects of the Bitcoin whitepaper's PDF structure. It does not make claims about the document's authenticity, authorship, or implications for the Bitcoin protocol or network.
+
+### Limitation of Liability
+SmartLedger Research provides this information "as is" without warranty of any kind. We make no representations about the accuracy, reliability, completeness, or timeliness of the information provided.
+
+### Usage Restrictions
+While this repository is open source under the MIT License, any commercial use or implementation of these techniques should be conducted with appropriate legal consultation.
+
 ## Overview
 
 This repository contains tools and documentation for reproducing and verifying the font stream steganography technique discovered in the Bitcoin whitepaper. Our research demonstrates the technical feasibility of embedding identifiers within PDF font streams while maintaining document functionality and surviving format conversions.

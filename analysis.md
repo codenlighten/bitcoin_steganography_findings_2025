@@ -6,6 +6,24 @@ By Gregory J. Ward
 SmartLedger Research (smartledger.solutions)  
 March 17, 2025
 
+## Important Disclaimers
+
+This technical analysis is provided by SmartLedger Research under the following conditions:
+
+1. **Research Scope**: This analysis focuses solely on the technical aspects of PDF steganography and font stream manipulation within the Bitcoin whitepaper document.
+
+2. **Technical Nature**: The findings presented are purely technical observations of PDF document structure and do not constitute:
+   - Commentary on Bitcoin's protocol or network
+   - Claims about document authenticity or authorship
+   - Investment or financial advice
+   - Legal opinions or conclusions
+
+3. **Academic Purpose**: This research is conducted for academic and educational purposes only. The techniques described are for understanding PDF document analysis and should not be used for unauthorized document modification.
+
+4. **No Warranties**: The information is provided "as is" without any warranties, express or implied. SmartLedger Research makes no representations about the accuracy or completeness of these findings.
+
+5. **Usage Limitations**: Any implementation or commercial use of these techniques should be conducted only after appropriate legal consultation.
+
 ## Abstract
 
 This paper presents a detailed technical analysis of steganographic content discovered within the font compression streams of the original Bitcoin whitepaper PDF. Through binary analysis, we identify a specific byte sequence embedded within the font data, suggesting an intentionally placed identifier. We demonstrate the feasibility of this embedding technique through reproduction and provide statistical analysis supporting its deliberate placement.
